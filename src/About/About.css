@@ -1,0 +1,36 @@
+.about {
+  background-color: rgb(229, 240, 250);
+  display: flex;
+}
+/* .about > div {
+  width: 50vw;
+} */
+.about_education {
+  width: 45vw;
+  background-color: rgb(180, 219, 219);
+  padding: 2rem 5rem;
+}
+
+.about__me {
+  width: 55vw;
+  padding: 2rem 3rem;
+}
+.highlight {
+  color: teal;
+}
+
+.download__button:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .about {
+    flex-direction: column-reverse;
+  }
+  .about_education {
+    width: 100vw;
+  }
+  .about__me {
+    width: 100vw;
+  }
+}

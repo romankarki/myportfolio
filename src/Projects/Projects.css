@@ -1,0 +1,35 @@
+.projects {
+  background-color: rgb(229, 240, 250);
+
+  padding: 4rem 2rem;
+}
+
+.projects__section {
+  display: flex;
+}
+
+.projects Button {
+  margin: 2rem 37vw;
+  width: 20vw;
+  align-content: center;
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  overflow-x: hidden;
+  /* left: 44%; */
+}
+.projects Button:hover {
+  color: black;
+}
+
+@media (max-width: 768px) {
+  .projects Button {
+    display: none;
+  }
+  #second {
+    display: none;
+  }
+  .projects__section {
+    flex-direction: column;
+  }
+}

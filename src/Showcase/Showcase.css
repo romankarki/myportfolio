@@ -1,0 +1,25 @@
+.showcase {
+  background: url("../images/pexels-pixabay-459225.jpg") no-repeat center
+    center/cover;
+
+  height: 100vh;
+  color: white;
+  position: relative;
+}
+
+.showcase__content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+  /* overlay */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+}

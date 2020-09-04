@@ -1,0 +1,24 @@
+.skills {
+  padding: 4rem 3rem;
+  overflow-x: hidden;
+}
+
+.skills > h1 {
+  text-align: center;
+  align-content: center;
+}
+
+.highlight {
+  color: teal;
+}
+
+.skills__list {
+  padding: 2rem 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.skills__list > h1 {
+  transform: scale(1.99);
+  color: teal;
+}
