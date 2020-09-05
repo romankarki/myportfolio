@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91683461244129aecc7f2caae1b8dbef",
+    "revision": "d15fe3a2edfa2aa4598879384f201e1b",
     "url": "/myportfolio/index.html"
   },
   {
-    "revision": "296153089f80351d8119",
-    "url": "/myportfolio/static/css/main.eec9125a.chunk.css"
+    "revision": "d6a59a4760834814871b",
+    "url": "/myportfolio/static/css/main.93ab6b24.chunk.css"
   },
   {
     "revision": "dbf0a48abe7ff34c5c17",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myportfolio/static/js/2.f83095c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "296153089f80351d8119",
-    "url": "/myportfolio/static/js/main.82d1fbbd.chunk.js"
+    "revision": "d6a59a4760834814871b",
+    "url": "/myportfolio/static/js/main.41ca88ff.chunk.js"
   },
   {
     "revision": "da2e02db1e870a8bb8e5",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myportfolio/static/media/pexels-pixabay-459225.21cec347.jpg"
   },
   {
-    "revision": "59a232d7055acc1aa558402eb2745f86",
-    "url": "/myportfolio/static/media/portfolio.59a232d7.pdf"
+    "revision": "888cc148944759d9cb202a42cadf0f21",
+    "url": "/myportfolio/static/media/portfolio.888cc148.pdf"
   },
   {
     "revision": "cbc8b8ff2dd9d47f538b6858af1e33fe",
